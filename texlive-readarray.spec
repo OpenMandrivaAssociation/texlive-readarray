@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-readarray
 Version:	1.2
-Release:	8
+Release:	9
 Summary:	Read, store and recall array-formatted data
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/readarray
