@@ -1,6 +1,6 @@
 Name:		texlive-readarray
 Version:	60540
-Release:	1
+Release:	2
 Summary:	Read, store and recall array-formatted data
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/readarray
