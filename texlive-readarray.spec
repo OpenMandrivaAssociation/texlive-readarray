@@ -3,7 +3,7 @@ Version:	60540
 Release:	2
 Summary:	Read, store and recall array-formatted data
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/readarray
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/readarray
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/readarray.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/readarray.doc.r%{version}.tar.xz
